@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "SellingBin Fishing Add-On by Ahta (BP)",
+    "description": "Behavior Pack for Selling Bin — Fishing Friendly Edition. Raw & cooked fish selling, daily raw-fish quests, vanilla core rewards.",
+    "uuid": "c1a7f7b2-3d9a-4f7a-9a2d-5e6f8b9c1234",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d9f2e3a1-5c4b-4a6f-8b7d-2f1e9c8a5678",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "49025ed6-6270-42d4-a340-6999f10d9e58",
+      "version": [1, 0, 0]
+    }
+  ]
+}
