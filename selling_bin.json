@@ -1,43 +1,14 @@
 {
-  "format_version": "1.20.0",
-  "minecraft:block": {
-    "description": {
-      "identifier": "ahta:selling_bin",
-      "is_experimental": false
-    },
-    "components": {
-      "minecraft:destroy_time": 2,
-      "minecraft:explosion_resistance": 2,
-      "minecraft:map_color": "#8B5A2B",
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "selling_bin",
-          "render_method": "opaque"
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "ahta:selling_bin",
+          "weight": 1
         }
-      },
-      "minecraft:creative_category": {
-        "category": "construction"
-      },
-      "minecraft:loot": "loot_tables/blocks/selling_bin.json",
-      "minecraft:entity_collision": true,
-      "minecraft:block_light_absorption": 0,
-      "minecraft:display_name": "Selling Bin",
-      "minecraft:inventory": {
-        "container_type": "dropper",
-        "inventory_size": 9
-      },
-      "minecraft:on_interact": {
-        "event": "open_selling_bin"
-      }
-    },
-    "events": {
-      "open_selling_bin": {
-        "run_command": {
-          "command": [
-            "function sell"
-          ]
-        }
-      }
+      ]
     }
-  }
+  ]
 }
