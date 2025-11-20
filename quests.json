@@ -1,0 +1,70 @@
+[
+  { "quest_id": "anchovy_20", "item": "mnp_ci:animal_anchovy", "amount": 20, "reward": "minecraft:iron_ingot", "reward_amount": 5, "description": "Kumpulkan 20 anchovy untuk mendapatkan 5 iron ingot" },
+  { "quest_id": "anchovy_30", "item": "mnp_ci:animal_anchovy", "amount": 30, "reward": "minecraft:emerald", "reward_amount": 2, "description": "Kumpulkan 30 anchovy untuk mendapatkan 2 emerald" },
+  { "quest_id": "anchovy_40", "item": "mnp_ci:animal_anchovy", "amount": 40, "reward": "minecraft:cooked_animal_anchovy", "reward_amount": 1, "description": "Kumpulkan 40 anchovy untuk mendapatkan 1 cooked anchovy" },
+
+  { "quest_id": "shad_15", "item": "mnp_ci:animal_shad", "amount": 15, "reward": "minecraft:iron_ingot", "reward_amount": 3, "description": "Kumpulkan 15 shad untuk mendapatkan 3 iron ingot" },
+  { "quest_id": "shad_25", "item": "mnp_ci:animal_shad", "amount": 25, "reward": "minecraft:emerald", "reward_amount": 1, "description": "Kumpulkan 25 shad untuk mendapatkan 1 emerald" },
+  { "quest_id": "shad_35", "item": "mnp_ci:animal_shad", "amount": 35, "reward": "minecraft:cooked_animal_shad", "reward_amount": 1, "description": "Kumpulkan 35 shad untuk mendapatkan 1 cooked shad" },
+
+  { "quest_id": "striped_bass_10", "item": "mnp_ci:animal_striped_bass", "amount": 10, "reward": "minecraft:iron_ingot", "reward_amount": 4, "description": "Kumpulkan 10 striped bass untuk mendapatkan 4 iron ingot" },
+  { "quest_id": "striped_bass_18", "item": "mnp_ci:animal_striped_bass", "amount": 18, "reward": "minecraft:emerald", "reward_amount": 2, "description": "Kumpulkan 18 striped bass untuk mendapatkan 2 emerald" },
+  { "quest_id": "striped_bass_25", "item": "mnp_ci:animal_striped_bass", "amount": 25, "reward": "minecraft:cooked_animal_striped_bass", "reward_amount": 1, "description": "Kumpulkan 25 striped bass untuk mendapatkan 1 cooked striped bass" },
+
+  { "quest_id": "sea_bass_12", "item": "mnp_ci:animal_sea_bass", "amount": 12, "reward": "minecraft:emerald", "reward_amount": 2, "description": "Kumpulkan 12 sea bass untuk mendapatkan 2 emerald" },
+  { "quest_id": "sea_bass_20", "item": "mnp_ci:animal_sea_bass", "amount": 20, "reward": "minecraft:diamond", "reward_amount": 1, "description": "Kumpulkan 20 sea bass untuk mendapatkan 1 diamond" },
+  { "quest_id": "sea_bass_28", "item": "mnp_ci:animal_sea_bass", "amount": 28, "reward": "minecraft:cooked_animal_sea_bass", "reward_amount": 1, "description": "Kumpulkan 28 sea bass untuk mendapatkan 1 cooked sea bass" },
+
+  { "quest_id": "yellowfin_tuna_8", "item": "mnp_ci:animal_yellowfin_tuna", "amount": 8, "reward": "minecraft:emerald", "reward_amount": 3, "description": "Kumpulkan 8 yellowfin tuna untuk mendapatkan 3 emerald" },
+  { "quest_id": "yellowfin_tuna_15", "item": "mnp_ci:animal_yellowfin_tuna", "amount": 15, "reward": "minecraft:diamond", "reward_amount": 1, "description": "Kumpulkan 15 yellowfin tuna untuk mendapatkan 1 diamond" },
+  { "quest_id": "yellowfin_tuna_25", "item": "mnp_ci:animal_yellowfin_tuna", "amount": 25, "reward": "minecraft:cooked_animal_yellowfin_tuna", "reward_amount": 1, "description": "Kumpulkan 25 yellowfin tuna untuk mendapatkan 1 cooked yellowfin tuna" },
+
+  { "quest_id": "swordfish_12", "item": "mnp_ci:animal_swordfish", "amount": 12, "reward": "minecraft:emerald", "reward_amount": 4, "description": "Kumpulkan 12 swordfish untuk mendapatkan 4 emerald" },
+  { "quest_id": "swordfish_18", "item": "mnp_ci:animal_swordfish", "amount": 18, "reward": "minecraft:diamond", "reward_amount": 2, "description": "Kumpulkan 18 swordfish untuk mendapatkan 2 diamond" },
+  { "quest_id": "swordfish_25", "item": "mnp_ci:animal_swordfish", "amount": 25, "reward": "minecraft:cooked_animal_swordfish", "reward_amount": 1, "description": "Kumpulkan 25 swordfish untuk mendapatkan 1 cooked swordfish" },
+
+  { "quest_id": "lionfish_10", "item": "mnp_ci:animal_lionfish", "amount": 10, "reward": "minecraft:emerald", "reward_amount": 4, "description": "Kumpulkan 10 lionfish untuk mendapatkan 4 emerald" },
+  { "quest_id": "lionfish_15", "item": "mnp_ci:animal_lionfish", "amount": 15, "reward": "minecraft:diamond", "reward_amount": 1, "description": "Kumpulkan 15 lionfish untuk mendapatkan 1 diamond" },
+  { "quest_id": "lionfish_22", "item": "mnp_ci:animal_lionfish", "amount": 22, "reward": "minecraft:cooked_animal_lionfish", "reward_amount": 1, "description": "Kumpulkan 22 lionfish untuk mendapatkan 1 cooked lionfish" },
+
+  { "quest_id": "golden_trout_5", "item": "mnp_ci:animal_golden_trout", "amount": 5, "reward": "minecraft:diamond", "reward_amount": 2, "description": "Kumpulkan 5 golden trout untuk mendapatkan 2 diamond" },
+  { "quest_id": "golden_trout_10", "item": "mnp_ci:animal_golden_trout", "amount": 10, "reward": "minecraft:cooked_animal_golden_trout", "reward_amount": 1, "description": "Kumpulkan 10 golden trout untuk mendapatkan 1 cooked golden trout" },
+  { "quest_id": "golden_trout_15", "item": "mnp_ci:animal_golden_trout", "amount": 15, "reward": "minecraft:diamond", "reward_amount": 3, "description": "Kumpulkan 15 golden trout untuk mendapatkan 3 diamond" },
+
+  { "quest_id": "giant_goldfish_6", "item": "mnp_ci:animal_giant_goldfish", "amount": 6, "reward": "minecraft:diamond", "reward_amount": 2, "description": "Kumpulkan 6 giant goldfish untuk mendapatkan 2 diamond" },
+  { "quest_id": "giant_goldfish_12", "item": "mnp_ci:animal_giant_goldfish", "amount": 12, "reward": "minecraft:cooked_animal_giant_goldfish", "reward_amount": 1, "description": "Kumpulkan 12 giant goldfish untuk mendapatkan 1 cooked giant goldfish" },
+  { "quest_id": "giant_goldfish_18", "item": "mnp_ci:animal_giant_goldfish", "amount": 18, "reward": "minecraft:diamond", "reward_amount": 3, "description": "Kumpulkan 18 giant goldfish untuk mendapatkan 3 diamond" },
+
+  { "quest_id": "giant_clam_6", "item": "mnp_ci:animal_giant_clam", "amount": 6, "reward": "minecraft:diamond", "reward_amount": 3, "description": "Kumpulkan 6 giant clam untuk mendapatkan 3 diamond" },
+  { "quest_id": "giant_clam_10", "item": "mnp_ci:animal_giant_clam", "amount": 10, "reward": "minecraft:cooked_animal_giant_clam", "reward_amount": 1, "description": "Kumpulkan 10 giant clam untuk mendapatkan 1 cooked giant clam" }
+
+  {"quest_id":"salmon_king_5","item":"mnp_ci:animal_salmon_king","amount":5,"reward":"minecraft:diamond","reward_amount":2,"description":"Kumpulkan 5 salmon king untuk mendapatkan 2 diamond"},
+  {"quest_id":"salmon_king_8","item":"mnp_ci:animal_salmon_king","amount":8,"reward":"minecraft:cooked_animal_salmon_king","reward_amount":1,"description":"Kumpulkan 8 salmon king untuk mendapatkan 1 cooked salmon king"},
+  
+  {"quest_id":"salmon_king_12","item":"mnp_ci:animal_salmon_king","amount":12,"reward":"minecraft:diamond","reward_amount":3,"description":"Kumpulkan 12 salmon king untuk mendapatkan 3 diamond"},
+  {"quest_id":"pearl_oyster_4","item":"mnp_ci:animal_pearl_oyster","amount":4,"reward":"minecraft:cooked_animal_pearl_oyster","reward_amount":1,"description":"Kumpulkan 4 pearl oyster untuk mendapatkan 1 cooked pearl oyster"},
+  
+  {"quest_id":"pearl_oyster_7","item":"mnp_ci:animal_pearl_oyster","amount":7,"reward":"minecraft:diamond","reward_amount":2,"description":"Kumpulkan 7 pearl oyster untuk mendapatkan 2 diamond"},
+  {"quest_id":"pearl_oyster_10","item":"mnp_ci:animal_pearl_oyster","amount":10,"reward":"minecraft:emerald","reward_amount":3,"description":"Kumpulkan 10 pearl oyster untuk mendapatkan 3 emerald"},
+  
+  {"quest_id":"mahi_mahi_7","item":"mnp_ci:animal_mahi_mahi","amount":7,"reward":"minecraft:emerald","reward_amount":2,"description":"Kumpulkan 7 mahi-mahi untuk mendapatkan 2 emerald"},
+  {"quest_id":"mahi_mahi_12","item":"mnp_ci:animal_mahi_mahi","amount":12,"reward":"minecraft:cooked_animal_mahi_mahi","reward_amount":1,"description":"Kumpulkan 12 mahi-mahi untuk mendapatkan 1 cooked mahi-mahi"},
+  
+  {"quest_id":"mahi_mahi_18","item":"mnp_ci:animal_mahi_mahi","amount":18,"reward":"minecraft:diamond","reward_amount":1,"description":"Kumpulkan 18 mahi-mahi untuk mendapatkan 1 diamond"},
+  {"quest_id":"sea_urchin_10","item":"mnp_ci:animal_sea_urchin","amount":10,"reward":"minecraft:emerald","reward_amount":2,"description":"Kumpulkan 10 sea urchin untuk mendapatkan 2 emerald"},
+  
+  {"quest_id":"sea_urchin_15","item":"mnp_ci:animal_sea_urchin","amount":15,"reward":"minecraft:cooked_animal_sea_urchin","reward_amount":1,"description":"Kumpulkan 15 sea urchin untuk mendapatkan 1 cooked sea urchin"},
+  {"quest_id":"sea_urchin_20","item":"mnp_ci:animal_sea_urchin","amount":20,"reward":"minecraft:diamond","reward_amount":1,"description":"Kumpulkan 20 sea urchin untuk mendapatkan 1 diamond"},
+  
+  {"quest_id":"barracuda_8","item":"mnp_ci:animal_barracuda","amount":8,"reward":"minecraft:emerald","reward_amount":3,"description":"Kumpulkan 8 barracuda untuk mendapatkan 3 emerald"},
+  {"quest_id":"barracuda_12","item":"mnp_ci:animal_barracuda","amount":12,"reward":"minecraft:cooked_animal_barracuda","reward_amount":1,"description":"Kumpulkan 12 barracuda untuk mendapatkan 1 cooked barracuda"},
+  
+  {"quest_id":"barracuda_18","item":"mnp_ci:animal_barracuda","amount":18,"reward":"minecraft:diamond","reward_amount":1,"description":"Kumpulkan 18 barracuda untuk mendapatkan 1 diamond"},
+  {"quest_id":"crab_10","item":"mnp_ci:animal_crab","amount":10,"reward":"minecraft:iron_ingot","reward_amount":5,"description":"Kumpulkan 10 crab untuk mendapatkan 5 iron ingot"},
+  
+  {"quest_id":"crab_15","item":"mnp_ci:animal_crab","amount":15,"reward":"minecraft:emerald","reward_amount":2,"description":"Kumpulkan 15 crab untuk mendapatkan 2 emerald"},
+  {"quest_id":"crab_20","item":"mnp_ci:animal_crab","amount":20,"reward":"minecraft:cooked_animal_crab","reward_amount":1,"description":"Kumpulkan 20 crab untuk mendapatkan 1 cooked crab"},
+  
+  {"quest_id":"flounder_12","item":"mnp_ci:animal_flounder","amount":12,"reward":"minecraft:iron_ingot","reward_amount":4,"description":"Kumpulkan 12 flounder untuk mendapatkan 4 iron ingot"},
+  {"quest_id":"flounder_18","item":"mnp_ci:animal_flounder","amount":18,"reward":"minecraft:emerald","reward_amount":2,"description":"Kumpulkan 18 flounder untuk mendapatkan 2 emerald"}
+]
