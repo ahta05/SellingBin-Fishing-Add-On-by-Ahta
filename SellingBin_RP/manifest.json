@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "SellingBin Fishing Add-On by Ahta (RP)",
+    "description": "Resource Pack for Selling Bin — Fishing Friendly Edition. Textures & names.",
+    "uuid": "49025ed6-6270-42d4-a340-6999f10d9e58",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "87ec3c8b-0d33-4419-a78f-7b4b01ca5a3d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
