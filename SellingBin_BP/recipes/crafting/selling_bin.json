@@ -1,0 +1,31 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "selling_bin:crafting_selling_bin"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "IPI",
+      "PBP",
+      "IPI"
+    ],
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      },
+      "P": {
+        "item": "minecraft:planks"
+      },
+      "B": {
+        "item": "minecraft:chest"
+      }
+    },
+    "result": {
+      "item": "selling_bin:selling_bin_item",
+      "count": 1
+    }
+  }
+}
