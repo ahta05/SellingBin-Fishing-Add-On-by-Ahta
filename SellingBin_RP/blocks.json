@@ -1,0 +1,24 @@
+  {
+    "format_version": "1.16.100",
+    "minecraft:block": {
+      "description": {
+        "identifier": "selling_bin:selling_bin",
+        "properties": {
+          "minecraft:loot": "loot_tables/empty.json"
+        }
+      },
+      "components": {
+        "minecraft:material_instances": {
+          "*": {
+            "texture": "selling_bin",  // Referensi ke selling_bin.png di textures/blocks/
+            "render_method": "opaque"
+          }
+        },
+        "minecraft:geometry": {
+          "identifier": "minecraft:geometry.full_block"
+        },
+        "minecraft:loot": "loot_tables/empty.json"
+      }
+    }
+  }
+  
