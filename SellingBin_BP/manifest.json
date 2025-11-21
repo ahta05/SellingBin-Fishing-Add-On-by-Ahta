@@ -1,33 +1,32 @@
-  {
-    "format_version": 2,
-    "header": {
-      "description": "SellingBin Fishing Add-On by Ahta - Addon pendukung untuk Friendly Fishing dengan sistem penjualan dan quest harian.",
-      "name": "SellingBin Fishing Add-On by Ahta (Behavior Pack)",
-      "uuid": "e6b4c429-0a68-4153-93e2-47278fd64425",  // Ganti dengan UUID unik dari uuidgenerator.net
-      "version": [1, 0, 0],
-      "min_engine_version": [1, 20, 0]
+{
+  "format_version": 2,
+  "header": {
+    "description": "SellingBin Fishing Add-On by Ahta - Behavior Pack.",
+    "name": "SellingBin Fishing Add-On (BP)",
+    "uuid": "e6b4c429-0a68-4153-93e2-47278fd64425",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Main Data Module",
+      "type": "data",
+      "uuid": "f853b860-9240-45a0-b4f9-07dd6562a049",
+      "version": [1, 0, 0]
     },
-    "modules": [
-      {
-        "description": "Modul data utama",
-        "type": "data",
-        "uuid": "f853b860-9240-45a0-b4f9-07dd6562a049",  // Ganti dengan UUID unik
-        "version": [1, 0, 0]
-      },
-      {
-        "description": "Modul script untuk logika quest dan penjualan",
-        "type": "script",
-        "language": "javascript",
-        "uuid": "d994a9d5-eefa-4d4b-9728-8be8f68a7cee",  // Ganti dengan UUID unik
-        "version": [1, 0, 0],
-        "entry": "scripts/server/main.js"
-      }
-    ],
-    "dependencies": [
-      {
-        "uuid": "2d412446-c255-4900-8e73-e5034d383b85",  // Ganti dengan UUID behavior pack Friendly Fishing jika diketahui, atau hapus baris ini
-        "version": [1, 0, 0]
-      }
-    ]
-  }
-  
+    {
+      "description": "Quest Script Module",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "d994a9d5-eefa-4d4b-9728-8be8f68a7cee",
+      "version": [1, 0, 0],
+      "entry": "scripts/server/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d6a68bad-71bb-4f3c-8936-015a83e9d8c7",
+      "version": [1, 0, 0]
+    }
+  ]
+}
