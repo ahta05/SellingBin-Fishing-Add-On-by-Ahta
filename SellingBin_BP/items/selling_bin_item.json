@@ -1,0 +1,19 @@
+  {
+    "format_version": "1.16.100",
+    "minecraft:item": {
+      "description": {
+        "identifier": "selling_bin:selling_bin_item",
+        "category": "construction"
+      },
+      "components": {
+        "minecraft:icon": {
+          "texture": "selling_bin"  // Referensi ke tekstur di resource pack
+        },
+        "minecraft:display_name": {
+          "value": "Selling Bin"
+        },
+        "minecraft:max_stack_size": 64
+      }
+    }
+  }
+  
