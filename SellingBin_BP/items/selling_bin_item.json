@@ -7,7 +7,7 @@
       },
       "components": {
         "minecraft:icon": {
-          "texture": "selling_bin"  // Referensi ke tekstur di resource pack
+          "texture": "selling_bin"
         },
         "minecraft:display_name": {
           "value": "Selling Bin"
