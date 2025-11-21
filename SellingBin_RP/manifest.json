@@ -1,0 +1,25 @@
+  {
+    "format_version": 2,
+    "header": {
+      "description": "SellingBin Fishing Add-On by Ahta - Resource Pack untuk tekstur blok SellingBin.",
+      "name": "SellingBin Fishing Add-On by Ahta (Resource Pack)",
+      "uuid": "d6a68bad-71bb-4f3c-8936-015a83e9d8c7",  // Ganti dengan UUID unik dari uuidgenerator.net (beda dari BP)
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+      {
+        "description": "Modul resources",
+        "type": "resources",
+        "uuid": "ad6ed4a3-f5a8-4d3f-9312-43cf53f6be29",  // Ganti dengan UUID unik
+        "version": [1, 0, 0]
+      }
+    ],
+    "dependencies": [
+      {
+        "uuid": "2d412446-c255-4900-8e73-e5034d383b85",  // Ganti dengan UUID resource pack Friendly Fishing jika diketahui, atau hapus baris ini
+        "version": [1, 0, 0]
+      }
+    ]
+  }
+  
